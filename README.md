@@ -4,4 +4,4 @@
 
 [Day 2 - Planning and Recon Continues](https://github.com/LuiyTheNinja/Simulated-Red-Team-Engagement-SparkForge-Manufacturing-LLC-Executive-summary-Day2ReconPlanCont)
 
-
+[Potential Email Drafts for Phishing Email Campaign](https://github.com/LuiyTheNinja/SparkForgemfg-RedTeamEmailCampaign)
